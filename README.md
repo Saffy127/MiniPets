@@ -1,3 +1,5 @@
+Try it out:https://huggingface.co/spaces/Saffy/minipets
+
 ---
 title: Mini pet classifier!
 emoji: 💻
